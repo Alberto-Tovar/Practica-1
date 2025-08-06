@@ -42,5 +42,7 @@ public class Practica1_poo {
         System.out.println("Raza: " + b.getRaza());
         System.out.println("Edad: " + b.getEdad());
         System.out.println("Nombre: " + b.getNombre());
+        
+        //Hola git hub este es mi 2do cambio
     }
 }
